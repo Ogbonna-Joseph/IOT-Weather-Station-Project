@@ -1,0 +1,8 @@
+<h1>This are the library included in the project work</h1>
+
+WiFi.h
+ESPAsyncWebServer.h
+Adafruit_Sensor.
+DHT.h
+TinyGPS++.h
+SoftwareSerial.h
