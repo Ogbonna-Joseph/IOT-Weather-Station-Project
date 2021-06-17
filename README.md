@@ -15,3 +15,10 @@ We used the ESPAsyncWebServer library to make the server to update the reading a
   <li>Bread Board</li>
   <li>Connecting Wires</li>
 </ul>
+
+<h4>PROJECT DESCRIPTION</h4>
+<ul>
+  <li>How to read temperature and humidity from DHT sensors</li>
+  <li>Asynchronous web server using the ESPAsyncWebServer library</li>
+  <li>Update the sensor readings automatically without the need to refresh the web page</li>
+</ul>
